@@ -1,0 +1,8 @@
+congdanh,112005,QL,Cong Danh NT,0353158836,abc@gmail.com
+tdat,56789,QL,Tuan Dat N,0987654321,tdat11@gmail.com
+cothanh,12345,NV,Co Thanh,0987654321,abcccc@gmail.com,34
+huy123,12345,QL,Nhat Huy NT,0987654321,huy123@gmail.com
+tinhquai,1235,NV,em iucua anh,0987555254,xinhghe@123gmail.com,15
+emiucua,5645,QL,anh nho em, 0145894555, shibala@gmail.com
+sasuke, 3334,NV,uchihasasuke, 0105224567, naraka@gmail.com,28
+honganh,12345,QL,Nguyen Thi Hong Anh,0123456789,honganh@gmail.com
